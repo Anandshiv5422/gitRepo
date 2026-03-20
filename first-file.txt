@@ -6,7 +6,9 @@ new lines
 3rd new lines
 4rd new lines
 5th new lines
+<<<<<<< HEAD
 6th new lines
 seventh new lines
 12th new lines
 13th new lines
+2
