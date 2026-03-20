@@ -5,4 +5,3 @@ new lines
 3rd new lines
 4rd new lines
 5th new lines
-6th new lines
